@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![leobarbosass's GitHub stats](https://github-readme-stats.vercel.app/api?username=leobarbosass&show_icons=true&theme=dark)
+<div>
 <img height="120em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobarbosass&layout=compact&langs_count=7&theme=dark"/>
+  </div>
